@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.1.24",
-    "downloadUrl":  "https://raw.githubusercontent.com/Legendaddy1216/LoadoutLegendsSyncReleases/main/LoadoutLegendsSyncUpdate-0.1.24.cmd",
-    "sha256":  "fe8ac706ec2c0d88a622bac3de5f4a432cd09f0c470d5242437a04dae49e69f1",
-    "releaseDate":  "2026-06-20T22:34:27Z",
-    "notes":  "Fixes the updater install flow and keeps AdvLoot-first item capture.",
-    "installerArguments":  ""
+  "version": "0.1.24-disabled",
+  "downloadUrl": "https://github.com/Legendaddy1216/LoadoutLegendsSyncReleases",
+  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "releaseDate": "2026-06-20T22:45:00Z",
+  "notes": "Sync downloads temporarily disabled while packaging is replaced.",
+  "installerArguments": ""
 }
