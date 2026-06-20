@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.1.20",
-    "downloadUrl":  "https://github.com/Legendaddy1216/LoadoutLegendsSyncReleases/raw/main/LoadoutLegendsSyncSetup-0.1.20.exe",
-    "sha256":  "24420946885414cebee6b5d0f63a31636a239579413a7dadc0e6c068d5bbad55",
-    "releaseDate":  "2026-06-20T03:45:31Z",
-    "notes":  "Persists kill log tail checkpoints and shows live read progress.",
+    "version":  "0.1.21",
+    "downloadUrl":  "https://github.com/Legendaddy1216/LoadoutLegendsSyncReleases/raw/main/LoadoutLegendsSyncSetup-0.1.21.exe",
+    "sha256":  "eb0696d6608114c86febd06dc9ce6c129c78351bcefed57687470da031effda7",
+    "releaseDate":  "2026-06-20T15:53:11Z",
+    "notes":  "Adds timestamped upload reports, blocked kill credit reasons, blocked outbox cleanup, and scroll support on smaller displays.",
     "installerArguments":  ""
 }
