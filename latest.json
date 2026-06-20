@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.1.16",
-    "downloadUrl":  "https://github.com/Legendaddy1216/LoadoutLegendsSyncReleases/raw/main/LoadoutLegendsSyncSetup-0.1.16.exe",
-    "sha256":  "54ce9405ef664c9f42ce9cd9943c8f69d99fbdcef8469fc495e73d048ee8ab56",
-    "releaseDate":  "2026-06-20T02:39:48Z",
-    "notes":  "Adds an obvious EQ log file picker in the sync app.",
+    "version":  "0.1.17",
+    "downloadUrl":  "https://github.com/Legendaddy1216/LoadoutLegendsSyncReleases/raw/main/LoadoutLegendsSyncSetup-0.1.17.exe",
+    "sha256":  "e99b63b9788696d501929291b37a89fc7f6e8c0254a8444b1b5adcc08f48f7dc",
+    "releaseDate":  "2026-06-20T02:53:11Z",
+    "notes":  "Fixes EQ log Browse freezing by avoiding watcher restarts before the file picker opens.",
     "installerArguments":  ""
 }
