@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.1.17",
-    "downloadUrl":  "https://github.com/Legendaddy1216/LoadoutLegendsSyncReleases/raw/main/LoadoutLegendsSyncSetup-0.1.17.exe",
-    "sha256":  "e99b63b9788696d501929291b37a89fc7f6e8c0254a8444b1b5adcc08f48f7dc",
-    "releaseDate":  "2026-06-20T02:53:11Z",
-    "notes":  "Fixes EQ log Browse freezing by avoiding watcher restarts before the file picker opens.",
+    "version":  "0.1.18",
+    "downloadUrl":  "https://github.com/Legendaddy1216/LoadoutLegendsSyncReleases/raw/main/LoadoutLegendsSyncSetup-0.1.18.exe",
+    "sha256":  "05773c8f6ef5bcc8f66be91af723afcd37415bfc5cd6a381d0c18f9b276caffb",
+    "releaseDate":  "2026-06-20T03:08:47Z",
+    "notes":  "Keeps kill log watcher alive after log changes and shows the tailed log file.",
     "installerArguments":  ""
 }
