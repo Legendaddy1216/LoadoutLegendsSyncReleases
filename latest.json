@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.1.14",
-    "downloadUrl":  "https://raw.githubusercontent.com/Legendaddy1216/LoadoutLegendsSyncReleases/main/LoadoutLegendsSyncSetup-0.1.14.exe",
-    "sha256":  "cc6b34f45f2394220c6e0847346429f46bde7541f639cabe81b0fda3e4ab8461",
-    "releaseDate":  "2026-06-20T01:19:33Z",
-    "notes":  "Prefer live vitals for stats and skip stale vitals/regen after loadout changes.",
+    "version":  "0.1.15",
+    "downloadUrl":  "https://raw.githubusercontent.com/Legendaddy1216/LoadoutLegendsSyncReleases/main/LoadoutLegendsSyncSetup-0.1.15.exe",
+    "sha256":  "e3d2400e2904cd22a8f5f3e42478069e4424371a5208eec2f07c51668c51cbeb",
+    "releaseDate":  "2026-06-20T02:31:00Z",
+    "notes":  "Adds automatic zone/pending outbox sync, clearer update status, explicit EQ log file selection, and improved log discovery.",
     "installerArguments":  ""
 }
