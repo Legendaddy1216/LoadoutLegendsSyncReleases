@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.1.15",
-    "downloadUrl":  "https://raw.githubusercontent.com/Legendaddy1216/LoadoutLegendsSyncReleases/main/LoadoutLegendsSyncSetup-0.1.15.exe",
-    "sha256":  "e3d2400e2904cd22a8f5f3e42478069e4424371a5208eec2f07c51668c51cbeb",
-    "releaseDate":  "2026-06-20T02:31:00Z",
-    "notes":  "Adds automatic zone/pending outbox sync, clearer update status, explicit EQ log file selection, and improved log discovery.",
+    "version":  "0.1.16",
+    "downloadUrl":  "https://github.com/Legendaddy1216/LoadoutLegendsSyncReleases/raw/main/LoadoutLegendsSyncSetup-0.1.16.exe",
+    "sha256":  "54ce9405ef664c9f42ce9cd9943c8f69d99fbdcef8469fc495e73d048ee8ab56",
+    "releaseDate":  "2026-06-20T02:39:48Z",
+    "notes":  "Adds an obvious EQ log file picker in the sync app.",
     "installerArguments":  ""
 }
