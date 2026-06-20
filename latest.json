@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.1.22",
-    "downloadUrl":  "https://github.com/Legendaddy1216/LoadoutLegendsSyncReleases/raw/main/LoadoutLegendsSyncSetup-0.1.22.exe",
-    "sha256":  "a3c08ab51ee7e239135fda1dde47c1d44623b50372664b3aff3e4abf5a06b9cd",
-    "releaseDate":  "2026-06-20T16:10:22Z",
-    "notes":  "Republishes the sync update with binary-safe installer storage, plus timestamped reports, blocked kill credit reasons, blocked outbox cleanup, and small-screen scrolling.",
+    "version":  "0.1.23",
+    "downloadUrl":  "https://github.com/Legendaddy1216/LoadoutLegendsSyncReleases/raw/main/LoadoutLegendsSyncSetup-0.1.23.exe",
+    "sha256":  "2bc1405a1f5b6a5a67d00df3c1a5c05874df6854a86c91eff7e73a8a31f4f7f8",
+    "releaseDate":  "2026-06-20T22:09:33Z",
+    "notes":  "Adds AdvLoot-first item capture for loot, merge, sell, and store events so database icons and item ids come from live Advanced Loot rows.",
     "installerArguments":  ""
 }
