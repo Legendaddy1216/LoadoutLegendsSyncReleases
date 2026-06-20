@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.1.21",
-    "downloadUrl":  "https://github.com/Legendaddy1216/LoadoutLegendsSyncReleases/raw/main/LoadoutLegendsSyncSetup-0.1.21.exe",
-    "sha256":  "eb0696d6608114c86febd06dc9ce6c129c78351bcefed57687470da031effda7",
-    "releaseDate":  "2026-06-20T15:53:11Z",
-    "notes":  "Adds timestamped upload reports, blocked kill credit reasons, blocked outbox cleanup, and scroll support on smaller displays.",
+    "version":  "0.1.22",
+    "downloadUrl":  "https://github.com/Legendaddy1216/LoadoutLegendsSyncReleases/raw/main/LoadoutLegendsSyncSetup-0.1.22.exe",
+    "sha256":  "a3c08ab51ee7e239135fda1dde47c1d44623b50372664b3aff3e4abf5a06b9cd",
+    "releaseDate":  "2026-06-20T16:10:22Z",
+    "notes":  "Republishes the sync update with binary-safe installer storage, plus timestamped reports, blocked kill credit reasons, blocked outbox cleanup, and small-screen scrolling.",
     "installerArguments":  ""
 }
