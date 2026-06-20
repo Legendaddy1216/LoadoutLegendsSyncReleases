@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.1.18",
-    "downloadUrl":  "https://github.com/Legendaddy1216/LoadoutLegendsSyncReleases/raw/main/LoadoutLegendsSyncSetup-0.1.18.exe",
-    "sha256":  "05773c8f6ef5bcc8f66be91af723afcd37415bfc5cd6a381d0c18f9b276caffb",
-    "releaseDate":  "2026-06-20T03:08:47Z",
-    "notes":  "Keeps kill log watcher alive after log changes and shows the tailed log file.",
+    "version":  "0.1.19",
+    "downloadUrl":  "https://github.com/Legendaddy1216/LoadoutLegendsSyncReleases/raw/main/LoadoutLegendsSyncSetup-0.1.19.exe",
+    "sha256":  "4ea29a21daa595646227237d8ee80af441733a088a5667d3ffc5fd1827e963e1",
+    "releaseDate":  "2026-06-20T03:32:43Z",
+    "notes":  "Fixes kill capture for EQ logs that do not include bracketed timestamps.",
     "installerArguments":  ""
 }
