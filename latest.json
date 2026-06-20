@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.1.23",
-    "downloadUrl":  "https://github.com/Legendaddy1216/LoadoutLegendsSyncReleases/raw/main/LoadoutLegendsSyncSetup-0.1.23.exe",
-    "sha256":  "2bc1405a1f5b6a5a67d00df3c1a5c05874df6854a86c91eff7e73a8a31f4f7f8",
-    "releaseDate":  "2026-06-20T22:09:33Z",
-    "notes":  "Adds AdvLoot-first item capture for loot, merge, sell, and store events so database icons and item ids come from live Advanced Loot rows.",
+    "version":  "0.1.24",
+    "downloadUrl":  "https://raw.githubusercontent.com/Legendaddy1216/LoadoutLegendsSyncReleases/main/LoadoutLegendsSyncUpdate-0.1.24.cmd",
+    "sha256":  "fe8ac706ec2c0d88a622bac3de5f4a432cd09f0c470d5242437a04dae49e69f1",
+    "releaseDate":  "2026-06-20T22:34:27Z",
+    "notes":  "Fixes the updater install flow and keeps AdvLoot-first item capture.",
     "installerArguments":  ""
 }
