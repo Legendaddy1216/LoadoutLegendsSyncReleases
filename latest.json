@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.1.12",
-    "downloadUrl":  "https://raw.githubusercontent.com/Legendaddy1216/LoadoutLegendsSyncReleases/main/LoadoutLegendsSyncSetup-0.1.12.exe",
-    "sha256":  "c85390b0016e9d0a1e91fe06e2647131e86687bc49844bcf9a5f4343f5a1cb13",
-    "releaseDate":  "2026-06-20T00:43:44Z",
-    "notes":  "Move sync app update downloads to the public GitHub release repo.",
+    "version":  "0.1.13",
+    "downloadUrl":  "https://raw.githubusercontent.com/Legendaddy1216/LoadoutLegendsSyncReleases/main/LoadoutLegendsSyncSetup-0.1.13.exe",
+    "sha256":  "4f917f18d2df9eb82c1e6907498ea55bfb8be4c17533b6c8012f8138e075e23a",
+    "releaseDate":  "2026-06-20T01:02:15Z",
+    "notes":  "Allow sparse equipped loadouts when anchored from live inventory bags; show equipment detector diagnostics in the app.",
     "installerArguments":  ""
 }
