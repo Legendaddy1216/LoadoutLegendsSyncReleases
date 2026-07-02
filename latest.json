@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.1.25",
-    "downloadUrl":  "https://github.com/Legendaddy1216/LoadoutLegendsSyncReleases/raw/main/LoadoutLegendsSyncSetup-0.1.25.exe",
-    "sha256":  "f2788eb153493d6b53af47263e5b92e7bca1f64104f4b2623117aed2d4f31ae1",
-    "releaseDate":  "2026-06-20T23:38:15Z",
-    "notes":  "One-file setup exe with lock-safe install fallback and AdvLoot-first item capture.",
+    "version":  "0.2.0",
+    "downloadUrl":  "https://github.com/Legendaddy1216/LoadoutLegendsSyncReleases/raw/main/LoadLegends.Sync-0.2.0-win-x64.zip",
+    "sha256":  "f420541d151ce8d2ef06e307030a9a7e5c7498a4d8fd577b100d4f45c6e0ff15",
+    "releaseDate":  "2026-07-02T03:15:25Z",
+    "notes":  "Loadout Legends Sync 0.2.0",
     "installerArguments":  ""
 }
