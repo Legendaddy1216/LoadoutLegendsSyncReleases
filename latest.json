@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.2.49",
-    "downloadUrl":  "https://github.com/Legendaddy1216/LoadoutLegendsSyncReleases/releases/download/v0.2.49/LoadoutLegendsSyncSetup-0.2.49.exe",
-    "sha256":  "0ad5d2c449ef7011858d0f2d9e53e0bf1cf1d68e30b71d4db2c901a7a7c4c4cd",
-    "releaseDate":  "2026-08-11T21:11:51Z",
-    "notes":  "Loadout Legends Sync 0.2.49",
+    "version":  "0.2.50",
+    "downloadUrl":  "https://github.com/Legendaddy1216/LoadoutLegendsSyncReleases/releases/download/v0.2.50/LoadoutLegendsSyncSetup-0.2.50.exe",
+    "sha256":  "73bffa6c2f7fea7ac4eb021c5b05cb29f165c2d3c2c148c3758e305051049143",
+    "releaseDate":  "2026-08-11T22:22:48Z",
+    "notes":  "Loadout Legends Sync 0.2.50",
     "installerArguments":  ""
 }
